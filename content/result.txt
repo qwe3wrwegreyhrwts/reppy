@@ -1,0 +1,2 @@
+result: 2
+        Hello this is first text file and Hello this is second text file
